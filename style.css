@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background-color:#666666;
+}
+#container{
+	width:760px;
+	margin:auto;
+	background-image:url("./img/bg034_02.gif");
+	border-left:5px solid #FF9933;
+	border-right:5px solid #FF9933;
+}
